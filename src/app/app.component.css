@@ -1,0 +1,22 @@
+.counter{
+    height: 50vh;
+    width: 50vw;
+    background-image: linear-gradient(to top left, #21d0e0e4, #dfe21a76);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.count{font-size: 48px;}
+button:disabled{
+    background-color: red;
+}
+.gr{
+    color: green;
+    
+
+}
+.kk
+{
+    color: hotpink;
+}
